@@ -1,0 +1,1 @@
+pop the first number next to the number iterated with for if it has the same value.

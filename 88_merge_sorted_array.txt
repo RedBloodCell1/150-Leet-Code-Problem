@@ -1,0 +1,5 @@
+Merging a sorted array can be done the same way with the last step of merge sort.
+
+So in this code, i just need to do merge sort but insert it to nums1 from the end of the list from the bigger number to the smaller number.
+
+Here we stop until j is finished just like merge sort in which it will stop until either i or j finished and insert remaining element, here we dont need to insert the remaining element on i because the number is already sorted in nums1 itself.

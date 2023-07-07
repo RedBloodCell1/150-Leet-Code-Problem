@@ -1,0 +1,23 @@
+Just use hash table.
+
+I dont want to forget has table so i need to write something about it.
+
+to initialize a hash table just put something like 
+m = {}
+
+and then to access the number inside the hash table, just use m[2] for example if the hash table has the number
+m = {2 -> 1}
+
+i dont actually know how to initialize my own hash table with value inside of it so i will search it right now.
+
+i get this from google
+dict = {'Name': 'Zara', 'Age': 7, 'Class': 'First'}
+
+so its not that hard
+m = {2 : 1}
+
+so to do this problem, we just use hash table. if the number isnt present, we put the number inside the hash table with the value of one for example [2,2,1,1,1,2,2]
+
+we just put {'2' : 1}
+
+after that just simply iterate through the hash table and find the number that is larger than size of array divided by 2.

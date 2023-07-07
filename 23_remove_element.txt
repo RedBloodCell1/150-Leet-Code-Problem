@@ -1,0 +1,1 @@
+Iterate through the element and pop the one with the same value as val while reducing the number of k.
