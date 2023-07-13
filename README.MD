@@ -6,3 +6,6 @@ Study 2: 2 hours 30 minute (5 problems solved)
 
 Study 3: 1 hour 40 minute (2 problems solved)
 274, 380
+
+Study 4: 1 hour 24 minute (0 problem solved)
+238 (I already understand but how the solution is but i feel really sad that i cant visualize it on my mind)
