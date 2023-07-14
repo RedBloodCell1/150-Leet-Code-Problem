@@ -9,3 +9,6 @@ Study 3: 1 hour 40 minute (2 problems solved)
 
 Study 4: 1 hour 24 minute (0 problem solved)
 238 (I already understand but how the solution is but i feel really sad that i cant visualize it on my mind)
+
+Study 5: 1 hour 25 minute (2 problems solved)
+238, 134, 135 (This is a hard question and i think i can do it but i will do it tomorrow cause i got things to do)
