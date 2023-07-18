@@ -16,3 +16,6 @@ Study 5: 1 hour 25 minute (2 problems solved)
 Study 6: 2 hours of study (5 problems solved)
 I end up not doing the candy one even tho maybe i can do it. I think its more important to learn other concept first than solving one hard problem.
 13, 12, 58, 14, 151
+
+Study 7: 2 hours of study (1 problems solved)
+6, 28 (this is called easy, but it is actually pretty hard. at least for me. I havent understand the concept yet. I will take a rest first and maybe continue later on or tomorrow)
