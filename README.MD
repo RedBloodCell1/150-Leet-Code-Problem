@@ -19,3 +19,6 @@ I end up not doing the candy one even tho maybe i can do it. I think its more im
 
 Study 7: 2 hours of study (1 problems solved)
 6, 28 (this is called easy, but it is actually pretty hard. at least for me. I havent understand the concept yet. I will take a rest first and maybe continue later on or tomorrow)
+
+Study 8: 40 minutes of study (0 problems solved)
+28 (Man my head really hurts physically on the right front part thinking about this. I need to rest)
