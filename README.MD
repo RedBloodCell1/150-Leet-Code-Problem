@@ -25,3 +25,6 @@ Study 8: 40 minutes of study (0 problems solved)
 
 Study 9: 2 hours of study (4 problems solved)
 125, 392, 167, 11 (Sorry i have been slacking. For number 28, maybe later)
+
+Study 10: 1 hour 40 minutes study (1 problems solved)
+209 (Holy sheesh i spend so much time on that one question. I learn a lot of new things tho). I literally code this thing 3 times, the first algorithm, i sort the number from big to small and realize that i can't do that because of subarray. Second one is everytime i reach total > target, i just iterate it by one and i got time limit. And the third one finally, i am on the right track and i found the right algorithm BUTTT THE CODE IS REALLY REALLY REALLY REALLY HARSH. Well its fine, i look at other people's code and understand what they do. So yeah i will do it again tomrrow but with a better code and do more problem)
