@@ -22,3 +22,6 @@ Study 7: 2 hours of study (1 problems solved)
 
 Study 8: 40 minutes of study (0 problems solved)
 28 (Man my head really hurts physically on the right front part thinking about this. I need to rest)
+
+Study 9: 2 hours of study (4 problems solved)
+125, 392, 167, 11 (Sorry i have been slacking. For number 28, maybe later)
