@@ -28,3 +28,7 @@ Study 9: 2 hours of study (4 problems solved)
 
 Study 10: 1 hour 40 minutes study (1 problems solved)
 209 (Holy sheesh i spend so much time on that one question. I learn a lot of new things tho). I literally code this thing 3 times, the first algorithm, i sort the number from big to small and realize that i can't do that because of subarray. Second one is everytime i reach total > target, i just iterate it by one and i got time limit. And the third one finally, i am on the right track and i found the right algorithm BUTTT THE CODE IS REALLY REALLY REALLY REALLY HARSH. Well its fine, i look at other people's code and understand what they do. So yeah i will do it again tomrrow but with a better code and do more problem)
+
+Study 11: ?
+3, 36, 54, 383, 205, 290, 242, 1, 202, 219
+Idk how long since i update this thing. I have been slacking yet again and im ashamed of myself yet again. But you know what I say? Its about how fast u can return from failure. I will come back even stronger. Actually im scared of myself being lazy yet again. Its always the same fear of being lazy. But I know I can do it and I need to do it. So yeah see you next time.
