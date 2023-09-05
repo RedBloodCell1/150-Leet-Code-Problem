@@ -32,3 +32,7 @@ Study 10: 1 hour 40 minutes study (1 problems solved)
 Study 11: ?
 3, 36, 54, 383, 205, 290, 242, 1, 202, 219
 Idk how long since i update this thing. I have been slacking yet again and im ashamed of myself yet again. But you know what I say? Its about how fast u can return from failure. I will come back even stronger. Actually im scared of myself being lazy yet again. Its always the same fear of being lazy. But I know I can do it and I need to do it. So yeah see you next time.
+
+
+Study 12: 20 minutes (1 problems solved)
+228
